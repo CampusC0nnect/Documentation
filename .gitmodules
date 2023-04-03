@@ -1,6 +1,6 @@
 [submodule "Source Code/Backend-API"]
 	path = Source Code/Backend-API
-	url = git@github.com:EIS-2/Backend-API.git
+	url = git@github.com:CampusC0nnect/Backend-API.git
 [submodule "Source Code/Frontend"]
 	path = Source Code/Frontend
-	url = git@github.com:EIS-2/Frontend.git
+	url = git@github.com:CampusC0nnect/Frontend.git
